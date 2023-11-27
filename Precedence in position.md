@@ -2,13 +2,9 @@
 
 How to add this effect to your iOS apps.
 
-![](images/demo0.gif)
-
 ## How it's built
 
 `UIImageView` with `UIButton`.
-
-![](images/1.png)
 
 **BadgeLabel.swift**
 
