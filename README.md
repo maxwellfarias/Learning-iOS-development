@@ -1,6 +1,6 @@
 # Learning-iOS-development
 
-![](Images/banner.png)
+![](images/bendy-man-developer-writing-programming-code.gif)
 
 ## SwiftUI 🍄
 
